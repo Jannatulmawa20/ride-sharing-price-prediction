@@ -1,5 +1,13 @@
 # Ride Sharing Price Prediction (VS Code Project)
 
+Predict ride prices from trip and contextual features using classic regression models (Linear Regression, Decision Tree, Random Forest, and an ensemble). Includes a Streamlit app for interactive predictions.
+
+## Project structure
+- `train_model.py` — trains models and saves the best pipeline
+- `app.py` — Streamlit UI that loads the saved model and predicts price
+- `ride_sharing_dataset.csv` — dataset used for training/evaluation
+- `requirements.txt` — Python dependencies
+
 ## 1) Setup (Windows PowerShell)
 ```powershell
 cd path\to\this\folder
