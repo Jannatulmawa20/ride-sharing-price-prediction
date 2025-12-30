@@ -31,3 +31,7 @@ streamlit run app.py
 - Install VS Code extensions: **Python** and **Jupyter**
 - Open `Assignment.md` for the questions and write your answers in a notebook.
 - Select interpreter: the `.venv` you created.
+\
+
+## App Preview
+![App Preview](images/app.png)
