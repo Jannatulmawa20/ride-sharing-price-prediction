@@ -34,4 +34,4 @@ streamlit run app.py
 \
 
 ## App Preview
-![App Preview](images/app.png)
+![App Preview](/image/app.png)
